@@ -5,4 +5,4 @@
   3> Create android studio project install volly library\
   4> dependencies - implementation 'com.android.volley:volley:1.1.1'\
   5> Fetch Json data from google script URL.\
-  6> Every time you hit the url the google script code automatically executed.\
+  6> Every time you hit the url the google script code automatically executed.
